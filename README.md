@@ -14,13 +14,8 @@
 
 - ⚡ Fun fact **I love watching anime, playing video games**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/trickrenzgarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trickrenzgarcia" height="30" width="40" /></a>
-</p>
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickrenzgarcia&show_icons=true&locale=en&layout=compact" alt="trickrenzgarcia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickrenzgarcia&show_icons=true&locale=en&layout=compact" alt="trickrenzgarcia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trickrenzgarcia&show_icons=true&locale=en" alt="trickrenzgarcia" /></p>
 
