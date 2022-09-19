@@ -8,7 +8,8 @@
 - contribute more to open source
 - learn AI/ML using tensorflow or pytorch
 - makes many projects
-- 
+
+<br>
 <br>
 <br>
 
