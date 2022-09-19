@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Patrick Renz Garcia</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3></br>
+<h3 align="center">A passionate fullstack developer from Philippines</h3></br>
 
 <img align="right" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="gif coding.." width="400" />
 
