@@ -8,8 +8,9 @@
 - contribute more to open source
 - learn AI/ML using tensorflow or pytorch
 - makes many projects
-
-
+- 
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickrenzgarcia&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="trickrenzgarcia" /></p>
 
