@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Renz Garcia</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 📝 Goal this year
+## 📝 Goal this year
 - contribute more to open source
 - learn AI/ML using tensorflow or pytorch
 - makes many projects
