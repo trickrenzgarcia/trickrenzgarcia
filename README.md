@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love watching anime, playing video games**
 
-<div style="display:flex;">
+<div style="display:grid; grid-template-columns: auto auto;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickrenzgarcia&show_icons=true&locale=en&layout=compact" alt="trickrenzgarcia" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=trickrenzgarcia&show_icons=true&locale=en" alt="trickrenzgarcia" /></p>
