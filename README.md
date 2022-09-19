@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick Renz Garcia</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="gif coding.." width="400" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trickrenzgarcia&label=Profile%20views&color=0e75b6&style=flat" alt="trickrenzgarcia" /> </p>
 
