@@ -7,7 +7,7 @@
 ## 📝 Goal this year
 - contribute more to open source projects
 - learn AI/ML using tensorflow or pytorch
-- makes many projects
+- create new projects and work together with skilled developers
 
 <br>
 <br>
