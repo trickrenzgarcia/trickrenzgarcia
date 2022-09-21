@@ -5,6 +5,7 @@
 <img align="right" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="gif coding.." width="400" />
 
 ## 📝 Goal this year
+- migrate all my React/Next projects into typescript
 - contribute more to open source projects
 - learn AI/ML using tensorflow or pytorch
 - create new projects and work together with skilled developers
