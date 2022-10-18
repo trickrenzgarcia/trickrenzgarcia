@@ -10,6 +10,12 @@
 - learn AI/ML using tensorflow or pytorch
 - create new projects and work together with skilled developers
 
+## Framework Stack
+- Express
+- NextJS
+- TailwindCSS
+- NodeJS
+
 <br>
 <br>
 <br>
