@@ -10,15 +10,16 @@
 - learn AI/ML using tensorflow or pytorch
 - create new projects and work together with skilled developers
 
+<br>
+<br>
+<br>
+
 ## Framework Stack
 - Express
 - NextJS
 - TailwindCSS
 - NodeJS
 
-<br>
-<br>
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickrenzgarcia&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="trickrenzgarcia" /></p>
 
