@@ -14,6 +14,9 @@
 <br>
 <br>
 
+## My poison
+Javascript, Php, Python
+
 ## Framework Stack
 - Express
 - NextJS
