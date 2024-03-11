@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
   name: "Patwick",
-  hobbies: ["Coding", "UI/UX Designing"]
+  hobbies: ["Coding", "UI/UX Designing", "Gaming"]
 }
 
 const skills = {
