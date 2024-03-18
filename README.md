@@ -14,7 +14,7 @@ const skills = {
   languages: ["JavaScript", "python", "php", "Java"],
   frameworks: {
     frontEnd: ["Nextjs", "Vite", "Typescript", "Tailwindcss"],
-    backEnd: ["Express", "Hono", "Flask"],
+    backEnd: ["Express", "Hono", "Fastify", "Flask"],
     runtime: ["Node.js", "Bun"]
   },
   tools: ["Git", "Docker"]
