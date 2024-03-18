@@ -1,4 +1,6 @@
 # Hi! 
+## About Me
+Aspiring Fullstack Web Developer
 
 ```javascript
 const aboutMe = {
