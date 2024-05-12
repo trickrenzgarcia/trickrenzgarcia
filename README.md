@@ -13,8 +13,8 @@ const aboutMe = {
 const skills = {
   languages: ["JavaScript", "python", "php", "Java"],
   frameworks: {
-    frontEnd: ["Nextjs", "Vite", "Typescript", "Tailwindcss"],
-    backEnd: ["Express", "Hono", "Fastify", "Flask"],
+    frontEnd: ["Nextjs", "Vite", "Typescript", "Shadcn-ui", "Tailwindcss"],
+    backEnd: ["Express", "Hono", "Fastify", "Flask", "Laravel"],
     runtime: ["Node.js", "Bun"]
   },
   tools: ["Git", "Docker"]
