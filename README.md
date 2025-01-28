@@ -22,7 +22,8 @@ const skills = {
 ```
 
 ### Github Stats
-![](https://komarev.com/ghpvc/?username=trickrenzgarcia&style=flat) ![WakaTime](https://wakatime.com/badge/user/waka_acf08abf-8545-4515-84a7-f506bdf95961.svg) <br>
+![](https://komarev.com/ghpvc/?username=trickrenzgarcia&style=flat)
+[![wakatime](https://wakatime.com/badge/user/3bca168a-f339-4210-a5dd-b5df678cc10f.svg)](https://rwick.pro)<br>
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickrenzgarcia&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickrenzgarcia&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=trickrenzgarcia&theme=gruvbox)](https://git.io/streak-stats)
