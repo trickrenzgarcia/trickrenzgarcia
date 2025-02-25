@@ -2,7 +2,7 @@
 I'm on a thrilling journey towards becoming a proficient fullstack developer, driven by my passion for creating innovative digital solutions.
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,mysql,postgresql,scss,tailwind,git,react,nodejs,express,next,prisma,laravel,django,vercel,planetscale,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,mysql,postgresql,tailwind,git,react,bun,hono,nodejs,express,next,prisma,drizzle,vercel,vscode&perline=9)](https://skillicons.dev)
 
 ```javascript
 const aboutMe = {
