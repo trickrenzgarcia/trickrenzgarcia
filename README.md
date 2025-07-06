@@ -1,5 +1,5 @@
 # Hi! I'm Patrick Renz Garcia
-I'm on a thrilling journey towards becoming a proficient fullstack developer, driven by my passion for creating innovative digital solutions.
+I'm on a thrilling journey towards becoming a proficient Software Engineer, driven by my passion for creating innovative digital solutions.
 
 <p align="center">
 
